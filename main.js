@@ -1,5 +1,4 @@
-class BinaryTree
-{
+class BinaryTree {
     constructor(){
         this.root = null;
     }
